@@ -39,7 +39,7 @@ Laravel supervisor will make sure that these processes are up and running and mo
 
 Let's look at the following diagram to see what processes we would be running via supervisor.
 
-<img src="https://images.learn2torials.com/prod/post/supervisor-laravel8.png">
+<img src="https://i.imgur.com/A4jPXSd.png">
 
 Let's start adding files so that you will know what we are doing.
 
